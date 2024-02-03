@@ -438,7 +438,7 @@
                                     My background is design and art but I do really love how to make my design working in the development phase
                                 </p>
                                 <div class="user">
-                                    <img src="asset('images/beatrice.png')}}" class="photo" alt="">
+                                    <img src="{{asset('images/beatrice.png')}}" class="photo" alt="">
                                     <div class="info">
                                         <h4 class="name">
                                             Beatrice
